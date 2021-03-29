@@ -131,3 +131,7 @@ dmypy.json
 
 application_test.csv
 application_train.csv
+digits_train.csv
+digits_test.csv
+lab3_train.csv
+lab3_test.csv
